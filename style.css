@@ -1,0 +1,34 @@
+ body{ 
+    color:maroon;
+}
+
+
+h1{
+    color: rgb(255, 69, 0);
+}
+h2{
+    color: rgb(255, 87, 41);
+}
+ol{
+    color:maroon;
+    line-height: 40px;
+}
+#line{
+    text-decoration-line: underline;
+
+}
+span{
+    text-decoration-line: line-through;
+}
+
+.y{
+    background-color: yellow;
+    text-decoration-line: none;
+}
+ul{
+    letter-spacing: 4px;
+}
+a{
+    text-decoration: none;
+    background-color: yellow;
+}
